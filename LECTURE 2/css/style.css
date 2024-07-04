@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+h1{
+	color:pink; 
+	
+}
+
+p{
+	text-align:justify;
+	line-height:25px;
+	text-indent:200px;
+	font-family:Pacifico, cursive;
+}

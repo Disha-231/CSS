@@ -1,0 +1,63 @@
+.disha{
+
+	width:500px;
+	height:500px;
+	background-color: #CD5C5C;
+	padding:0;
+	border-width:10px;
+	border-style:solid;
+	border-color:black;
+	border-radius:50% 0 50% 0;
+	display:inline-block;
+}
+
+
+
+.disha1{
+
+	width:500px;
+	height:500px;
+	background-color: #CD5C5C;
+	padding:0;
+	border-width:10px;
+	border-style:solid;
+	border-color:black;
+	border-radius:0 50% 0 50%;
+	display:inline-block;
+}
+
+
+
+
+
+.disha2{
+
+	width:500px;
+	height:500px;
+	background-color: #CD5C5C;
+	padding:0;
+	border-width:10px;
+	border-style:solid;
+	border-color:black;
+	border-radius:0 50% 0 50%
+	;
+	display:inline-block;
+}
+
+
+
+
+
+
+.disha3{
+
+	width:500px;
+	height:500px;
+	background-color: #CD5C5C;
+	padding:0;
+	border-width:10px;
+	border-style:solid;
+	border-color:black;
+	border-radius:50% 0 50% 0;
+	display:inline-block;
+}
